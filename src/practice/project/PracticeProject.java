@@ -17,6 +17,7 @@ public class PracticeProject {
         // TODO code application logic here
         System.out.println("hello world");
         System.out.println("My name is Ammad hussain");
+        System.out.println("2022532");
     }
     
 }
